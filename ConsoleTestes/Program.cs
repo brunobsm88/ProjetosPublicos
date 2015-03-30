@@ -19,6 +19,7 @@ namespace ConsoleTestes
             Lista = new List<string>();
             var nome = "Bruno dos Santos Moura";
             var ar = nome.Split(' ');
+            //nova linha github
             var tamanhoMaximo = 30;
             var subDominio = string.Empty;
 
